@@ -2,15 +2,15 @@
 
 ### Ingeniero en Tecnologías de la Información & Desarrollador Full Stack[cite: 1]
 
-Soy un profesional enfocado en el **Desarrollo de Software Multiplataforma**[cite: 1]. Cuento con experiencia sólida construyendo sistemas integrales de gestión empresarial, automatizaciones mediante chatbots para el sector hotelero, plataformas de productividad y control de asistencia, así como arquitecturas backend robustas para la gestión de dispositivos IoT[cite: 1]. 
+Soy un profesional enfocado en el **Desarrollo de Software Multiplataforma**[cite: 1]. Cuento con experiencia sólida construyendo sistemas integrales de gestión empresarial, automatizaciones mediante chatbots para el sector hotelero, plataformas de productividad y control de asistencia, así como arquitecturas backend robustas para la gestión de dispositivos IoT. 
 
-Me apasiona escribir código limpio, optimizar procesos operativos, resolver problemas complejos y estar en constante aprendizaje técnico[cite: 1].
+Me apasiona escribir código limpio, optimizar procesos operativos, resolver problemas complejos y estar en constante aprendizaje técnico.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
-A lo largo de mis proyectos he trabajado con un stack diverso que me permite abarcar tanto el Frontend como el Backend y las Bases de Datos[cite: 1]:
+A lo largo de mis proyectos he trabajado con un stack diverso que me permite abarcar tanto el Frontend como el Backend y las Bases de Datos:
 
 <table>
   <tr>
@@ -50,17 +50,17 @@ A lo largo de mis proyectos he trabajado con un stack diverso que me permite aba
 
 ### Experiencia Destacada
 
-* **Desarrollador Full Stack** en *Fast Technology* | Automatización de procesos mediante chatbots y desarrollo de sistemas de gestión legal, financiera y de soporte técnico para empresas y hoteles[cite: 1].
-* **Desarrollador Full Stack (Freelance)** para *Nissan* | Rediseño arquitectónico de un sistema de productividad industrial, control de asistencia y paneles de control para supervisores[cite: 1].
-* **Desarrollador Backend** en *UT Xicotepec de Juárez* | Creación de APIs escalables para la gestión de dispositivos domésticos inteligentes (IoT) en tiempo real[cite: 1].
+* **Desarrollador Full Stack** en *Fast Technology* | Automatización de procesos mediante chatbots y desarrollo de sistemas de gestión legal, financiera y de soporte técnico para empresas y hoteles.
+* **Desarrollador Full Stack (Freelance)** para *Nissan* | Rediseño arquitectónico de un sistema de productividad industrial, control de asistencia y paneles de control para supervisores.
+* **Desarrollador Backend** en *UT Xicotepec de Juárez* | Creación de APIs escalables para la gestión de dispositivos domésticos inteligentes (IoT) en tiempo real.
 
 ---
 
 ### Conectemos
 
-* **LinkedIn:** [linkedin.com/in/angel-manuel-rosaldo](https://www.linkedin.com/in/angel-manuel-rosaldo/)[cite: 1]
-* **Correo:** [angelmanuelrosaldo72@gmail.com](mailto:angelmanuelrosaldo72@gmail.com)[cite: 1]
+* **LinkedIn:** [linkedin.com/in/angel-manuel-rosaldo](https://www.linkedin.com/in/angel-manuel-rosaldo/)
+* **Correo:** [angelmanuelrosaldo72@gmail.com](mailto:angelmanuelrosaldo72@gmail.com)
 
 
 ---
-<p align="center"><i>"Aportando soluciones tecnológicas eficientes y creciendo de manera estable en el ámbito laboral."</i>[cite: 1]</p>
+<p align="center"><i>"Aportando soluciones tecnológicas eficientes y creciendo de manera estable en el ámbito laboral."</i></p>
