@@ -1,8 +1,8 @@
 # ¡Hola! Soy Angel Manuel Rosaldo
 
-### Ingeniero en Tecnologías de la Información & Desarrollador Full Stack[cite: 1]
+### Ingeniero en Tecnologías de la Información & Desarrollador Full Stack
 
-Soy un profesional enfocado en el **Desarrollo de Software Multiplataforma**[cite: 1]. Cuento con experiencia sólida construyendo sistemas integrales de gestión empresarial, automatizaciones mediante chatbots para el sector hotelero, plataformas de productividad y control de asistencia, así como arquitecturas backend robustas para la gestión de dispositivos IoT. 
+Soy un profesional enfocado en el **Desarrollo de Software Multiplataforma**. Cuento con experiencia sólida construyendo sistemas integrales de gestión empresarial, automatizaciones mediante chatbots para el sector hotelero, plataformas de productividad y control de asistencia, así como arquitecturas backend robustas para la gestión de dispositivos IoT. 
 
 Me apasiona escribir código limpio, optimizar procesos operativos, resolver problemas complejos y estar en constante aprendizaje técnico.
 
